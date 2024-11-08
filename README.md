@@ -2,8 +2,10 @@
 
 This is a place where I document the things I learn daily, no matter how small or large.
 
+ここは、大小を問わず、私が学んだことを記録するところです。
+
 ## Purpose
 
-- Keep track of my daily learning progress.
-- Share insights and useful information on various topics.
-- Organize my notes and discoveries in a structured way.
+- 日々の学習の記録
+- さまざまなトピックに関する洞察と情報共有
+- メモと発見の構造的な整理
