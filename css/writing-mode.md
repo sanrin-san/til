@@ -4,15 +4,21 @@ https://developer.mozilla.org/ja/docs/Web/CSS/writing-mode
 
 ## `vertical-rl`
 
-<p style="writing-mode: vertical-rl;">
-    縦書きの<br>文章
-</p>
+```
+文縦
+章書
+　き
+　の
+```
 
 ## `vertical-lr`
 
-<p style="writing-mode: vertical-lr;">
-    縦書きの<br>文章
-</p>
+```
+縦文
+書章
+き
+の
+```
 
 ## 関連するCSSプロパティ
 
@@ -20,14 +26,5 @@ https://developer.mozilla.org/ja/docs/Web/CSS/writing-mode
 
 > このプロパティは縦書きのテキスト (`writing-mode` が `horizontal-tb` 以外の場合) でのみ効果があります。
 
-### `mixed`(default)
-
-<p style="writing-mode: vertical-lr;">
-    縦書きの<br>text
-</p>
-
-### `upright`
-
-<p style="writing-mode: vertical-lr; text-orientation: upright">
-    縦書きの<br>text
-</p>
+`mixed`: default  
+`upright`: 英文等の横書き用の文字を90°回転しない
