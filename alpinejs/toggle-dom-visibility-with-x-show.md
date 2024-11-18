@@ -39,3 +39,11 @@ https://alpinejs.dev/directives/show
     </div>
 </div>
 ```
+
+## `x-cloak`で隠す場合
+
+```css
+[x-cloak] {
+    display: none;
+}
+```
