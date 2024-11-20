@@ -6,7 +6,9 @@
 
 ### アップデート
 
+```
 composer require laravel/framework ^11.31
+```
 
 ### 依存関係のインストール
 
