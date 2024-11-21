@@ -1,4 +1,4 @@
-# _process()と_physics_process()の違い
+# randf_rangeと_randi_rangeの違い
 
 ## `float` randf_range(from: float, to: float)
 
